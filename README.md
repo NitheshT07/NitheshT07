@@ -84,20 +84,3 @@
 </table>
 </p>
 
-
-
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-</div>
-
----
-
-## ❤️ Support Me
-
-
-
